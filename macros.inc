@@ -26,4 +26,4 @@ OUT = -o
 EXTO = o
 MAKE = make
 RM = rm -f
-swch = -unix -impi 
+swch = -unix 
